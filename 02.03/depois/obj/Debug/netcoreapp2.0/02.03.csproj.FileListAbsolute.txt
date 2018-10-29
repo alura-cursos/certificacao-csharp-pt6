@@ -1,0 +1,10 @@
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\bin\Debug\netcoreapp2.0\02.03.deps.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\bin\Debug\netcoreapp2.0\02.03.runtimeconfig.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\bin\Debug\netcoreapp2.0\02.03.runtimeconfig.dev.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\bin\Debug\netcoreapp2.0\02.03.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\bin\Debug\netcoreapp2.0\02.03.pdb
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\obj\Debug\netcoreapp2.0\02.03.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\obj\Debug\netcoreapp2.0\02.03.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\obj\Debug\netcoreapp2.0\02.03.AssemblyInfo.cs
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\obj\Debug\netcoreapp2.0\02.03.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\depois\obj\Debug\netcoreapp2.0\02.03.pdb

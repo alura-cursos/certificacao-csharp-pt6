@@ -1,0 +1,12 @@
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\bin\Debug\netcoreapp2.1\loja.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\bin\Debug\netcoreapp2.1\01.03.deps.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\bin\Debug\netcoreapp2.1\01.03.runtimeconfig.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\bin\Debug\netcoreapp2.1\01.03.runtimeconfig.dev.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\bin\Debug\netcoreapp2.1\01.03.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\bin\Debug\netcoreapp2.1\01.03.pdb
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\obj\Debug\netcoreapp2.1\01.03.csprojAssemblyReference.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\obj\Debug\netcoreapp2.1\01.03.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\obj\Debug\netcoreapp2.1\01.03.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\obj\Debug\netcoreapp2.1\01.03.AssemblyInfo.cs
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\obj\Debug\netcoreapp2.1\01.03.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-roteiro\certificacao-csharp-pt6-roteiro\01.03\obj\Debug\netcoreapp2.1\01.03.pdb

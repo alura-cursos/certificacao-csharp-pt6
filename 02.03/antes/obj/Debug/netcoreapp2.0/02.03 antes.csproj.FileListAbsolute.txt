@@ -1,0 +1,17 @@
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\bin\Debug\netcoreapp2.0\02.03 antes.deps.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\bin\Debug\netcoreapp2.0\02.03 antes.runtimeconfig.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\bin\Debug\netcoreapp2.0\02.03 antes.runtimeconfig.dev.json
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\bin\Debug\netcoreapp2.0\02.03 antes.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\bin\Debug\netcoreapp2.0\02.03 antes.pdb
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.csprojAssemblyReference.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.AssemblyInfo.cs
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6-estudio\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.pdb
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.csprojAssemblyReference.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.AssemblyInfo.cs
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.dll
+C:\Users\marce\Documents\GitHub\certificacao-csharp-pt6\02.03\antes\obj\Debug\netcoreapp2.0\02.03 antes.pdb

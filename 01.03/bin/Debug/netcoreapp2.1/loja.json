@@ -1,0 +1,95 @@
+{
+  "Diretores": [
+    { "Nome": "James Cameron" },
+    { "Nome": "Francis Lawrence" },
+    { "Nome": "Zack Snyder" },
+    { "Nome": "Joss Whedon" },
+    { "Nome": "Martin Scorsese" },
+    { "Nome": "Christopher Nolan" },
+    { "Nome": "Scott Derrickson" },
+    { "Nome": "Gareth Edwards" },
+    { "Nome": "Justin Kurzel" }
+  ],
+  "Filmes": [
+    {
+      "Diretor": { "Nome": "James Cameron" },
+      "Titulo": "Avatar",
+      "Ano": "2009"
+    },
+    {
+      "Diretor": { "Nome": "Francis Lawrence" },
+      "Titulo": "I Am Legend",
+      "Ano": "2007"
+    },
+    {
+      "Diretor": { "Nome": "Zack Snyder" },
+      "Titulo": "300",
+      "Ano": "2006"
+    },
+    {
+      "Diretor": { "Nome": "Joss Whedon" },
+      "Titulo": "The Avengers",
+      "Ano": "2012"
+    },
+    {
+      "Diretor": { "Nome": "Martin Scorsese" },
+      "Titulo": "The Wolf of Wall Street",
+      "Ano": "2013"
+    },
+    {
+      "Diretor": { "Nome": "Christopher Nolan" },
+      "Titulo": "Interstellar",
+      "Ano": "2014"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Game of Thrones",
+      "Ano": "2011–"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Vikings",
+      "Ano": "2013–"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Gotham",
+      "Ano": "2014–"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Power",
+      "Ano": "2014–"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Narcos",
+      "Ano": "2015–"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Breaking Bad",
+      "Ano": "2008–2013"
+    },
+    {
+      "Diretor": { "Nome": "Scott Derrickson" },
+      "Titulo": "Doctor Strange",
+      "Ano": "2016"
+    },
+    {
+      "Diretor": { "Nome": "Gareth Edwards" },
+      "Titulo": "Rogue One: A Star Wars Story",
+      "Ano": "2016"
+    },
+    {
+      "Diretor": { "Nome": "Justin Kurzel" },
+      "Titulo": "Assassin's Creed",
+      "Ano": "2016"
+    },
+    {
+      "Diretor": { "Nome": "N/A" },
+      "Titulo": "Luke Cage",
+      "Ano": "2016–"
+    }
+  ]
+}
